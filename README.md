@@ -1,4 +1,4 @@
-# Rotating-the-Gaming-Object
+<img width="957" alt="Screenshot 2023-08-24 233811" src="https://github.com/VarshaAjith1110/Rotating-the-Gaming-Object/assets/94222288/2dde7f6d-417b-458c-9f47-dc1306a471ba"><img width="955" alt="Screenshot 2023-08-24 233727" src="https://github.com/VarshaAjith1110/Rotating-the-Gaming-Object/assets/94222288/b01a7231-84af-4a0f-8d07-a65eb8f240d9"># Rotating-the-Gaming-Object
 
 ## Aim:
 To develop a 3D application for rotating the gaming objects in unity.
@@ -59,11 +59,13 @@ public class SCRIPT1 : MonoBehaviour
     {
        transform.RotateAround(Vector3.right,Vector3.up,60*Time.deltaTime); 
     }
-}
+
+
 ```
 ## Output:
-<img width="177" alt="Screenshot 2023-08-24 233106" src="https://github.com/VarshaAjith1110/Rotating-the-Gaming-Object/assets/94222288/4d889ca0-3bae-411d-acdf-eaf6218125c5">
-<img width="173" alt="Screenshot 2023-08-24 233154" src="https://github.com/VarshaAjith1110/Rotating-the-Gaming-Object/assets/94222288/e08fa5ba-bdc3-4864-a9f2-c19a26a1f7ab">
+<img width="955" alt="Screenshot 2023-08-24 233727 - Copy" src="https://github.com/VarshaAjith1110/Rotating-the-Gaming-Object/assets/94222288/e99686d1-dbca-49e4-a9f2-1b02fd8964f0">
+<img width="955" alt="Screenshot 2023-08-24 233727" src="https://github.com/VarshaAjith1110/Rotating-the-Gaming-Object/assets/94222288/e40ec02e-86df-47ae-a104-3154c941e550">
+
 
 ## Result:
 Thus,the 3D application for rotating the gaming objects in unity is developed successfully
